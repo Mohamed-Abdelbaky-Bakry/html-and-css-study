@@ -1,0 +1,49 @@
+.container {
+    display: flex; /* استخدام Flexbox */
+    justify-content: center; /* توسيط العناصر */
+}
+
+.assign-1-shape-1,
+.assign-1-shape-2,
+.assign-1-shape-3 {
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px; /* إضافة مسافة بين العناصر */
+    border-width: 5px;
+}
+
+/* تنسيقات لكل عنصر على حدة مع الألوان المطلوبة */
+.assign-1-shape-1 {
+    border-color: red;
+    border-style: solid;
+}
+
+.assign-1-shape-2 {
+    border-color: blue green;
+    border-style: solid;
+}
+
+.assign-1-shape-3 {
+    border-color: red green yellow blue;
+    border-style: dashed;
+}
+.element-element-1{
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px; /* إضافة مسافة بين العناصر */
+    border-left: 10px solid red;
+}
+.element-element-2{
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px; /* إضافة مسافة بين العناصر */
+    border-left: 10px solid red;
+    display: none;
+    
+}
+.element-element-3{
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px; /* إضافة مسافة بين العناصر */
+    border-left : 10px solid rgb(129, 31, 95);
+}

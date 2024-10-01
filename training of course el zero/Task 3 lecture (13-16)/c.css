@@ -1,0 +1,20 @@
+div div span {
+    color: red;
+}
+div span{
+    color: blue;
+}
+div p
+{
+ color: green;
+}
+.task-one,
+.task-two,
+.task-three,
+.task-four{
+    background-color: red;
+    padding: 10px;
+    display: inline;
+    max-width: 400px;
+    max-height: 100px;
+}
